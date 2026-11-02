@@ -1,0 +1,50 @@
+[
+  {
+    "id": "food-drives",
+    "category": "essentials",
+    "kicker": "Essentials · Food security",
+    "title": "Community food drives",
+    "description": "Food drives would bring together non-perishable groceries and everyday essentials for households experiencing difficult circumstances.",
+    "actions": [
+      "Ask which non-perishable items are most useful.",
+      "Help sort, pack or distribute supplies.",
+      "Coordinate a collection with a school, church or community group."
+    ],
+    "image": "_images/page/food-drive-960.jpg",
+    "alt": "Groceries arranged for a community food collection",
+    "interest": "food",
+    "cta": "Ask about food drives"
+  },
+  {
+    "id": "clothing-support",
+    "category": "essentials",
+    "kicker": "Essentials · Clothing",
+    "title": "Clothing support",
+    "description": "A clothing collection would help redirect clean, wearable clothing to people who could use it, while encouraging thoughtful reuse.",
+    "actions": [
+      "Set aside clean clothing in good condition.",
+      "Help sort donations by type and size.",
+      "Support a safe, organised collection day."
+    ],
+    "image": "_images/page/donation-support-960.jpg",
+    "alt": "Items prepared for a donation and community support activity",
+    "interest": "clothing",
+    "cta": "Ask about clothing support"
+  },
+  {
+    "id": "community-outreach",
+    "category": "people",
+    "kicker": "People · Connection",
+    "title": "Community outreach",
+    "description": "Outreach activities would create opportunities for volunteers and local groups to listen, connect and coordinate practical support.",
+    "actions": [
+      "Volunteer time or a relevant skill.",
+      "Suggest a community partnership.",
+      "Help plan an inclusive, respectful activity."
+    ],
+    "image": "_images/page/about-volunteers-960.jpg",
+    "alt": "Volunteers working together on a community initiative",
+    "interest": "outreach",
+    "cta": "Ask about outreach"
+  }
+]

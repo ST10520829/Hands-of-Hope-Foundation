@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- TEMPLATE ONLY: replace example.org with the final GitHub Pages URL before deployment. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://example.org/</loc></url>
+  <url><loc>https://example.org/about.html</loc></url>
+  <url><loc>https://example.org/programmes.html</loc></url>
+  <url><loc>https://example.org/donate.html</loc></url>
+  <url><loc>https://example.org/enquiry.html</loc></url>
+  <url><loc>https://example.org/contact.html</loc></url>
+</urlset>

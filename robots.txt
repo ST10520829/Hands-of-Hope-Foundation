@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# TEMPLATE ONLY: replace this sitemap URL with the deployed GitHub Pages URL before publication.
+Sitemap: https://example.org/sitemap.xml
